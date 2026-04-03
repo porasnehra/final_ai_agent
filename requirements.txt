@@ -1,0 +1,26 @@
+# Core AI and Agents
+langchain-google-genai
+langgraph
+langchain-core
+python-dotenv
+
+# Backend (FastAPI)
+fastapi
+uvicorn
+pydantic
+httpx
+
+# Frontend (Streamlit)
+streamlit
+requests
+pandas
+
+# API Integrations
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+notion-client
+todoist-api-python
+
+# Database
+# sqlite3 is built into Python, no pip install needed
