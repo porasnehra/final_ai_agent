@@ -3,7 +3,7 @@ import requests
 
 import os
 
-API_URL = os.getenv("API_URL", "https://final-ai-agent.onrender.com/")
+API_URL = os.getenv("API_URL", "http://127.0.0.1:8000")
 
 st.set_page_config(page_title="Multi-User Agent", page_icon="🤖")
 st.title("🤖 Personal AI Assistant")
