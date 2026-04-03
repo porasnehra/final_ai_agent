@@ -10,6 +10,12 @@ uvicorn
 pydantic
 httpx
 
+# Add these to your existing file
+uvicorn
+gunicorn
+python-multipart
+cryptography
+
 # Frontend (Streamlit)
 streamlit
 requests
