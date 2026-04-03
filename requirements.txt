@@ -23,4 +23,6 @@ notion-client
 todoist-api-python
 
 # Database
+sqlalchemy
+python-multipart
 # sqlite3 is built into Python, no pip install needed
